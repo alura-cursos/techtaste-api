@@ -1,42 +1,44 @@
-[
-  {
-      "id": 0,
-      "name": "Salmão Grelhado",
-      "description": "Salmão fresco grelhado servido com legumes da estação.",
-      "image": "salmon",
-      "price": 29.99,
-      "category": "main"
-  },
-  {
-      "id": 1,
-      "name": "Frango ao Curry",
-      "description": "Peito de frango em um delicioso molho de curry, servido com arroz basmati.",
-      "image": "chicken-curry",
-      "price": 24.99,
-      "category": "main"
-  },
-  {
-      "id": 2,
-      "name": "Espaguete à Bolonhesa",
-      "description": "Massa espaguete com molho de carne moída ao estilo italiano.",
-      "image": "pasta",
-      "price": 19.99,
-      "category": "pasta"
-  },
-  {
-      "id": 3,
-      "name": "Pedaço de Bolo de Chocolate",
-      "description": "Delicioso bolo de chocolate com recheio de brigadeiro e cobertura de ganache",
-      "image": "cake",
-      "price": 9.99,
-      "category": "dessert"
-  },
-  {
-      "id": 4,
-      "name": "Água com Limão",
-      "description": "Água com limão fresco",
-      "image": "limon-water",
-      "price": 3.99,
-      "category": "drink"
-  }
-]
+{
+  "products": [
+    {
+        "id": 0,
+        "name": "Salmão Grelhado",
+        "description": "Salmão fresco grelhado servido com legumes da estação.",
+        "image": "salmon",
+        "price": 29.99,
+        "category": "main"
+    },
+    {
+        "id": 1,
+        "name": "Frango ao Curry",
+        "description": "Peito de frango em um delicioso molho de curry, servido com arroz basmati.",
+        "image": "chicken-curry",
+        "price": 24.99,
+        "category": "main"
+    },
+    {
+        "id": 2,
+        "name": "Espaguete à Bolonhesa",
+        "description": "Massa espaguete com molho de carne moída ao estilo italiano.",
+        "image": "pasta",
+        "price": 19.99,
+        "category": "pasta"
+    },
+    {
+        "id": 3,
+        "name": "Pedaço de Bolo de Chocolate",
+        "description": "Delicioso bolo de chocolate com recheio de brigadeiro e cobertura de ganache",
+        "image": "cake",
+        "price": 9.99,
+        "category": "dessert"
+    },
+    {
+        "id": 4,
+        "name": "Água com Limão",
+        "description": "Água com limão fresco",
+        "image": "limon-water",
+        "price": 3.99,
+        "category": "drink"
+    }
+  ]
+}
