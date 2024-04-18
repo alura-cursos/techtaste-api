@@ -20,7 +20,7 @@
         "id": 2,
         "name": "Espaguete à Bolonhesa",
         "description": "Massa espaguete com molho de carne moída ao estilo italiano.",
-        "image": "pasta",
+        "image": "spaghetti",
         "price": 19.99,
         "category": "pasta"
     },
